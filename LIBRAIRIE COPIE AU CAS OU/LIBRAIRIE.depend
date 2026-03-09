@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746120734 source:d:\lesson\c++\exo c++\librairie\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
